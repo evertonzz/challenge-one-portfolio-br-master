@@ -1,0 +1,21 @@
+div.experience__description{
+    display: flex;
+    gap: 16px;
+    height: 51px;
+    width: 348px;
+
+}
+
+button.experiencia__botao--repo{
+    border: 1px solid var(--cor-dos-botoes);
+    color: var(--cor-dos-botoes);
+    cursor: pointer;
+    font-weight: 400;
+    gap: 10px;
+    height: 51px;
+    line-height: 18.78px;
+    padding: 16px;
+    width: 116px;
+
+    
+}

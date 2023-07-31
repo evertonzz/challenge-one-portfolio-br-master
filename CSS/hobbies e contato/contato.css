@@ -1,0 +1,95 @@
+section.formcontato{
+    display: flex;
+    background-color: var(--cor-de-fundo-sobreMim);
+    height: 660px;
+    padding: 64px 0px 0px 0px;
+
+}
+
+div.formcontato__contacto{
+    display: flex;
+    margin: 0px 152px;
+    width: 1136px;
+    gap: 10px;
+
+}
+
+img.formcontato__img{
+    height: 593px;
+    width: 464px;
+
+}
+
+div.formcontato__text{
+    display: flex;
+    color: var(--cor-geral);
+    flex-direction: column;
+    font-weight: 500;
+    height: 596px;
+    line-height: 18.78px;
+
+}
+
+h2.formcontato__title{
+    color: var(--cor-geral);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    margin-top: 0px;
+
+}
+
+h3.formcontato__subtext{
+    margin-top: 0px;
+
+}
+
+.entrar{
+    margin-bottom: 0%;
+
+}
+
+form.formcontato__form{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    height: 472px;
+}
+
+input.formcontato__input{
+    color: var(--color-black100);
+    caret-color: var(--color-blue100);
+    border-bottom: 1px solid var(--color-black30);
+    height: 50px;
+    padding-left: 10px;
+    width: 656px;
+
+}
+
+textarea.formcontato__textarea{
+    height: 127px;
+    width: 656px;
+
+}
+
+button.formcontato__botao{
+    display: flex;
+    background-color: var(--cor-dos-botoes);
+    border: 1px solid var(--cor-dos-botoes);
+    color: #FFFFFF;
+    font-weight: 400;
+    gap: 10px;
+    height: 51px;
+    line-height: 18.78px;
+    padding: 16px;
+    width: 165px;
+
+}
+
+button.formcontato__botao:hover{
+    cursor: pointer;
+    
+}
+
+
+

@@ -1,0 +1,36 @@
+
+
+section.hobbies{
+    display: flex;
+    flex-direction: column;
+    height: 244px;
+    margin-bottom: 2em;
+
+}
+
+h3.hobbies__title{
+    margin: 19px 0px;
+    color: var(--cor-geral);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    text-align: center;
+}
+
+div.hobbies__line{
+    display: flex;
+    justify-content: space-between;
+    width: 1136px;
+
+}
+
+div.hobbies__box{
+    display: flex;
+    background-color: #FFFFFF;
+    gap: 8px;
+    height: 142px;
+    padding: 16px;
+    width: 144px;
+
+}
+

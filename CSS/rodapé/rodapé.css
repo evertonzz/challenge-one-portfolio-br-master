@@ -1,0 +1,14 @@
+section.footer{
+   background-color: #FFFFFF;
+   padding: 8px; 
+ 
+}
+
+
+p.text__rodape{
+   color: var(--cor-geral);
+   font-weight: 500;
+   line-height: 18.78px;
+   text-align: center;
+
+}

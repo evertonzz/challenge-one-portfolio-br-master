@@ -1,0 +1,38 @@
+section.menu{
+    display: flex;
+    align-items: center;
+    height: 88px;
+    justify-content: space-between;
+    padding: 32px 0px 32px 0px;
+    width: 1136px;
+    
+    }
+    
+    header{
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        height:24px;
+        width:146px;
+    
+    }
+    
+    ul.menu__list{
+        display: flex;
+        font-weight: 500;
+        gap: 28px;
+        height: 19px;
+        line-height: 18.78px;
+        padding: 0px;
+        width: 642px;
+    
+    }
+    nav ul li:hover{
+        text-decoration: underline;
+    
+    }
+
+li.contato{
+    font-weight: 700;
+
+}

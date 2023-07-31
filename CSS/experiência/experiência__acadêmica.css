@@ -1,0 +1,24 @@
+section.academic{
+    display: flex;
+    background-color: var(--cor-de-fundo-sobreMim);
+    flex-direction: column;
+
+}
+
+h2.academic__title{
+    color: #464646;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    text-align: center;
+
+}
+
+div.academic__courses{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin: 0px 152px;
+    width: 1136px;
+
+}

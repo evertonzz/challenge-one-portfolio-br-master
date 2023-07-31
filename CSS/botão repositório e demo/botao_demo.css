@@ -1,0 +1,13 @@
+button.experiencia__botao--demo{
+    border: 1px solid var(--cor-dos-botoes);
+    background-color: var(--cor-dos-botoes);
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: 400;
+    gap: 10px;
+    height: 51px;
+    line-height: 18.78px;
+    padding: 16px;
+    width: 116px;
+
+}

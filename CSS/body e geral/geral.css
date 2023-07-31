@@ -1,0 +1,59 @@
+:root{
+    /*Insira a variavel das outras cores inspecionando o modelo do figma*/
+    /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
+   --cor-de-fundo: #F5F5F5;
+   --cor-de-link: #000;
+   --cor-geral:#464646;
+   --cor-de-fundo-sobreMim:#EAF2FD;
+   --cor-dos-botoes:#2A7AE4;
+}
+
+
+ol, ul,li{
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+div.all{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: calc(100vw - 15px);
+
+}
+
+section.menu{
+    margin: 0px 152px;
+
+}
+
+section.title{
+    margin: 0px 152px;
+
+}
+
+div.about__container{
+    margin: 0px 88px;
+
+}
+
+div.skills__line{
+    margin: 0px 152px;
+
+}
+
+div.hobbies__line{
+    margin: 0px 152px;
+
+}
+
+li > a{
+    color: var(--cor-geral);
+
+}
+

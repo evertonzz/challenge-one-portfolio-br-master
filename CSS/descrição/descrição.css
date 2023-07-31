@@ -1,0 +1,64 @@
+section.title{
+    height: 368px;
+    width:  1136px;
+    
+}
+
+div.title__div{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    width: 1136px;
+
+}
+
+img.title__profile{
+    height: 368px;
+    width: 368px;
+
+}
+
+div.title__container{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: 246px;
+    padding: 61px 0px 61px 0px;
+    width: 751px;
+
+}
+
+h2.title__bio{
+    display: flex;
+    color: var(--cor-geral);
+    font-size: 52px;
+    font-weight: 700;
+    height: 122px;
+    line-height: 61.05px;
+    margin-bottom: 0px;
+    width: 747px;
+
+}
+
+h3.title__subsection{
+    display: flex;
+    color: var(--cor-geral);
+    font-size: 22px;
+    font-weight: 400;
+    height: 52px;
+    line-height: 22px;
+    margin-bottom: 0px;
+    width: 751px;
+
+}
+
+ul.title__network{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    height: 24px;
+    list-style: none;
+    padding: 0px;
+    width: 467px;
+
+}

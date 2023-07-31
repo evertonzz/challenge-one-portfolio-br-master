@@ -1,0 +1,45 @@
+section.about{
+    display: flex;
+    background-color: #EAF2FD;
+    gap: 10px;
+    height: 255px;
+    margin-top: 7em;
+    padding: 64px;
+
+}
+
+div.about__container{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 255px;
+    width: 1136px;
+
+}
+
+h3.about__title{
+    color: var(--cor-geral);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    margin: 0px;
+    width: 166px;
+
+}
+
+p.about__paragraph{
+    color: var(--cor-geral);
+    font-size: 16px;
+    font-weight: 400;
+    height: 133px;
+    line-height: 18.78px;
+    margin: 0px;
+    width: 751px;
+
+}
+
+img.assinatura{
+    height: 52px;
+    width: 140px;
+
+}

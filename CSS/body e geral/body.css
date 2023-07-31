@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    box-sizing: border-box;
+    background-color: var(--cor-de-fundo) ;
+    font-family: 'Raleway';
+    justify-content: center;
+    line-height: 1;
+    margin: 0;
+    
+}
+
